@@ -186,4 +186,10 @@ section {
   .wrap-block {
     text-align: center;
   }
+  .main-title {
+		text-align: center;
+		h1 {
+			font-size: 2.5rem;
+		}
+	}
 }
